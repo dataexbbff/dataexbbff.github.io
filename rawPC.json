@@ -1,6 +1,5 @@
 {
     "injectJSON":{
-<<<<<<< HEAD
         "siteKey":"iyf.tv",
         "defaultHost":"jssp.tv",
         "title":"爱壹帆",
@@ -8,12 +7,3 @@
         "downloadKey":"iyf"
     }
 }
-=======
-        "siteKey":"lgsp.tv",
-        "defaultHost":"lgsp.tv",
-        "title":"蓝光视频",
-        "webSite":"www.lgsp.tv",
-        "downloadKey":"lgsp"
-    }
-}
->>>>>>> f7485acc2e6feddb8fcd9107b91b7ca7767cab9a

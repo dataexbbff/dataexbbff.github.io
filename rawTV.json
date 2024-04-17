@@ -1,5 +1,5 @@
 {
-    "api":"https://api.jssp.tv",
-    "socket":"https://chat.jssp.tv",
-    "h5":"https://m.jssp.tv"
+    "api":"https://api.hlive.io",
+    "socket":"https://chat.hlive.io",
+    "h5":"https://m.hlive.io"
 }

@@ -1,5 +1,5 @@
 {
-    "api":"https://api.hlive.io",
-    "socket":"https://chat.hlive.io",
-    "h5":"https://m.hlive.io"
+    "api":"https://api.tripdata.app",
+    "socket":"https://chat.tripdata.app",
+    "h5":"https://m.tripdata.app"
 }
